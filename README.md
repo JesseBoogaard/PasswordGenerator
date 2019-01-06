@@ -11,6 +11,7 @@ npm install
 npm run dev
 
 # build electron application for production
+(if you're building on Windows you might need to build it from CMD as administrator due to permission issues)
 npm run build
 
 ```
