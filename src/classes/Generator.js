@@ -2,7 +2,6 @@ import os from 'os'
 
 export default class generator {
     constructor() {
-        console.log('generator started succesfully.')
     }
 
     getPassword() {
