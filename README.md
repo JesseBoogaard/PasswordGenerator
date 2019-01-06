@@ -1,6 +1,8 @@
 # Password Generator
 Electron application that generates passwords for you.
 
+(((save yourself and dont build on anything but Windows)))
+
 #### Build Setup
 
 ``` bash
