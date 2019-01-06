@@ -1,6 +1,6 @@
 {
   "name": "passwordgenerator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Jesse Boogaard <jesse98@live.nl>",
   "description": "An electron/vuetify application that generates passwords for you!",
   "license": "MIT",
